@@ -1,8 +1,12 @@
 ## Hello world! 😅
+
+<img align="center" alt="Banner" height="300" width="100%" src="./assets/banner.jpeg" style="object-fit: cover; object-position: center 30%">
+
+<br />
+<br />
 My name is Rafael Montenegro and I love what I do.
 
 I've always been passionate about technology, curious and I'm always trying to learn something new.
-
 
 <div align="center">
   <a href="https://github.com/rafael399">
@@ -36,4 +40,6 @@ I've always been passionate about technology, curious and I'm always trying to l
   <a href="https://instagram.com/rafael399" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-montenegro-541449157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  
+  ![Snake animation](https://github.com/rafael399/rafael399/blob/output/github-contribution-grid-snake.svg)
 </div>
