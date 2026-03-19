@@ -38,9 +38,10 @@ I've always been passionate about technology, curious and I'm always trying to l
  
 <div> 
   <!-- <a href="https://instagram.com/rafael399" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-  <a style="display: block" href="https://www.linkedin.com/in/rafael-montenegro-541449157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rafael-montenegro-541449157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
  
-  
+<div> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafael399/rafael399/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafael399/rafael399/output/github-snake.svg">
